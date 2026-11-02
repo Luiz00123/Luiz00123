@@ -15,10 +15,10 @@
 - 🤖 **Bot Builder and ready-made bots**: set your stake, take profit and stop loss, then run
 - 📊 **History and performance views**: see your results and your best and worst hours
 - 🔒 **Safety limits**: daily loss limit, stop loss and take profit on every bot
-- 📱 **Mobile-first**: fast, dark theme, but it needs to be installed to work faster
-- 🧠 **AI Coach**: Your account assistant, guardian & teacher to give you more understanding of Trading
+- 📱 **Mobile-first**: fast, dark theme, but it needs to be installed to work faster ✈︎
+- 🧠 **AI Coach**: your account assistant, guardian & teacher to give you more understanding of Trading ☞
 
 ---
 
 
-<sub>𝕰𝖝𝖈𝖚𝖙𝖊 𝖜𝖎𝖙𝖍 𝕻𝖗𝖊𝖈𝖎𝖘𝖎𝖔𝖓</sub>
+<sub>𝕰𝖝𝖈𝖚𝖙𝖊 𝖜𝖎𝖙𝖍 𝕻𝖗𝖊𝖈𝖎𝖘𝖎𝖔𝖓 ༒</sub>
