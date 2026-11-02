@@ -10,7 +10,7 @@
 
 ## About 𝗖𝗥𝗘𝗘𝗗-𝕏
 
-**𝗖𝗥𝗘𝗘𝗗-𝕏** is a web trading terminal built for Deriv traders, made to work smoothly on a phone.
+**𝗖𝗥𝗘𝗘𝗗-𝕏** is a web trading terminal built for 𝕯𝖊𝖗𝖎𝖛 traders, made to work smoothly on a phone.
 
 - 🤖 **Bot Builder and ready-made bots**: set your stake, take profit and stop loss, then run
 - 📊 **History and performance views**: see your results and your best and worst hours
