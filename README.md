@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="creedx-banner.gif" alt="CREED-X" width="100%">
+  <img src="creedx-banner.gif" alt="𝗖𝗥𝗘𝗘𝗗-𝕏" width="100%">
 </p>
 
 <p align="center">
@@ -8,9 +8,9 @@
 
 ---
 
-## About CREED-X
+## About 𝗖𝗥𝗘𝗘𝗗-𝕏
 
-**CREED-X** is a web trading terminal built for Deriv traders, made to work smoothly on a phone.
+**𝗖𝗥𝗘𝗘𝗗-𝕏** is a web trading terminal built for Deriv traders, made to work smoothly on a phone.
 
 - 🤖 **Bot Builder and ready-made bots**: set your stake, take profit and stop loss, then run
 - 📊 **History and performance views**: see your results and your best and worst hours
@@ -19,4 +19,5 @@
 
 ---
 
-<sub>Trading carries risk, and you can lose your stake. Practise on a demo account first.</sub>
+
+<sub>Execute with Precision</sub>
