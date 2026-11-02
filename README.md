@@ -15,7 +15,8 @@
 - 🤖 **Bot Builder and ready-made bots**: set your stake, take profit and stop loss, then run
 - 📊 **History and performance views**: see your results and your best and worst hours
 - 🔒 **Safety limits**: daily loss limit, stop loss and take profit on every bot
-- 📱 **Mobile-first**: fast, dark theme, no install needed
+- 📱 **Mobile-first**: fast, dark theme, but it needs to be installed to work faster
+- 🧠 **AI Coach**: Your account assistant, guardian & teacher to give you more understanding of Trading
 
 ---
 
