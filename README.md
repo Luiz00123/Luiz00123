@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://creed-x-mjp3.onrender.com"><b>🌐 Open CREED-X</b> &rarr; https://creed-x-mjp3.onrender.com</a>
+  <a href="https://creed-x-mjp3.onrender.com"><b>🌐 Open 𝗖𝗥𝗘𝗘𝗗-𝕏</b> &rarr; 💀 </a>
 </p>
 
 ---
